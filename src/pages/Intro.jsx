@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css'; // Importa los estilos de react-toastify
+import 'react-toastify/dist/ReactToastify.css';
 import imageCoderCamp from '../assets/image/codercamp.jpg';
 import { FaArrowDown } from 'react-icons/fa';
 import { useText } from '../hooks/useText';
