@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Tabla } from '../components/tabla'
+import { Tabla } from '../components/Tabla'
 
 export function Blog() {
 
