@@ -7,7 +7,7 @@ import { FaArrowDown } from 'react-icons/fa';
 import { useText } from '../hooks/useText';
 
 export function Intro() {
-    const { displayedText: welcomeText } = useText('Bienvenidos al Coder Camp');
+    const { displayedText: welcomeText } = useText('Bienvenidos a la documentacion del Coder Camp');
     const { displayedText: descriptionText } = useText('Tu viaje para aprender comienza aquí');
 
     const [timeRemaining, setTimeRemaining] = useState(10);
