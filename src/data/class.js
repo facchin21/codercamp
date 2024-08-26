@@ -8,7 +8,7 @@ export const classes =
       "details": {
         "numeroClase": 1,
         "tema": "Introducción al Mercado Laboral",
-        "invitados": ["Nahuel Lema", "Alan Gosiker"],
+        "invitados": ["Nahuel Lema (Anfitrion)", "Alan Gosiker"],
         "resumen": "La primera clase del CoderCamp ofreció una visión integral del mercado laboral, enfocándose en el sector tecnológico.",
         "puntosClave": [
           "Objetivos del Programa: Preparar a los participantes con una combinación de teoría y práctica.",
@@ -27,7 +27,7 @@ export const classes =
       "details": {
         "numeroClase": 2,
         "tema": "Autoconocimiento",
-        "invitados": ["Rocío Trevisan"],
+        "invitados": ["Nahuel Lema (Anfitrion)","Rocío Trevisan"],
         "resumen": "Se discutieron métodos para identificar fortalezas y debilidades, y cómo alinear estas con las pasiones y objetivos personales.",
         "puntosClave": [
           "Objetivos de la Clase: Reflexionar sobre la relación entre autoconocimiento y la búsqueda de empleo.",
@@ -45,7 +45,7 @@ export const classes =
       "details": {
         "numeroClase": 3,
         "tema": "Marca Personal y Networking",
-        "invitados": ["Caro Lancelotti"],
+        "invitados": ["Nahuel Lema (Anfitrion)","Caro Lancelotti"],
         "resumen": "Se discutieron estrategias clave, la relevancia del storytelling, y se desmintieron mitos comunes sobre Recursos Humanos.",
         "puntosClave": [
           "Objetivos de la Clase: Introducción al storytelling y marca personal.",
@@ -64,7 +64,7 @@ export const classes =
       "details": {
         "numeroClase": 4,
         "tema": "Búsqueda de Ofertas de Trabajo y CVs",
-        "invitados": ["Celi Bueno Solórzano"],
+        "invitados": ["Nahuel Lema (Anfitrion)","Celi Bueno Solórzano"],
         "resumen": "Se discutieron las mejores fuentes para encontrar empleo, la importancia de LinkedIn, y se dieron consejos prácticos para destacar.",
         "puntosClave": [
           "Objetivos de la Clase: Entender los pasos para una búsqueda laboral eficiente.",
@@ -82,7 +82,7 @@ export const classes =
       "details": {
         "numeroClase": 5,
         "tema": "Preparación para Entrevistas de Soft Skills",
-        "invitados": ["Cami Luis"],
+        "invitados": ["Segundo D'Augerot (Anfitrion)","Cami Luis"],
         "resumen": "Los participantes recibieron estrategias y herramientas prácticas para enfrentar con éxito las entrevistas laborales.",
         "puntosClave": [
           "Objetivos de la Clase: Proporcionar herramientas útiles para la búsqueda laboral.",
@@ -101,7 +101,7 @@ export const classes =
       "details": {
         "numeroClase": 6,
         "tema": "Más Recursos para Prepararte para la Entrevista",
-        "invitados": ["Johanna Dzikowsky", "Rosangie Chirino"],
+        "invitados": ["Segundo D'Augerot (Anfitrion)","Johanna Dzikowsky", "Rosangie Chirino"],
         "resumen": "Se enfocó en las habilidades blandas y la gestión del entorno de la entrevista.",
         "puntosClave": [
           "Objetivos de la Clase: Realizar ejercicios prácticos de comunicación.",
