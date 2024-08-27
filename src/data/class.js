@@ -111,5 +111,23 @@ export const classes =
           "Repaso y Reflexión: Importancia de las habilidades blandas en el éxito laboral."
         ]
       }
+    },
+    {
+      "id": "class-7",
+      "title": "Clase 7",
+      "summary": "Preparación para Entrevistas Técnicas",
+      "content": "La séptima clase de CoderCamp se centró en la preparación específica para entrevistas técnicas. Se abordaron los diferentes tipos de desafíos que pueden presentarse durante el proceso de selección, incluyendo preguntas técnicas, live coding, y take-home challenges.",
+      "details": {
+        "numeroClase": 7,
+        "tema": "Preparación para Entrevistas Técnicas",
+        "invitados": ["Nicolás Seguro (Anfitrion)", "Alma Canzian", "Rocío Azparren", "Javier D. Caruso"],
+        "resumen": "Se discutieron los errores comunes en la comunicación y la importancia de la proactividad y la investigación previa.",
+        "puntosClave": [
+          "Objetivos de la Clase: Prepararse para entrevistas técnicas y evitar errores comunes.",
+          "Errores Comunes: Falta de comunicación efectiva, proactividad, y gestión de expectativas.",
+          "Tipos de Entrevistas: Tech Interview, Live Code Challenge, Take Home Challenge, y Challenge Review.",
+          "Recomendaciones: Solicitar información previa sobre la entrevista, reservar tiempo y espacio adecuados, y comunicar efectivamente durante la entrevista."
+        ]
+      }
     }
   ]
